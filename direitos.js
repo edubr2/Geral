@@ -1,0 +1,1 @@
+<center><p>Desenvolvido por: <a href='http://www.ed-infoweb.com' target='_blank'><img src='http://i.imgur.com/E5q88cO.png' title='ED-INFOWEB'/></a> <a Style='visibility: hidden' href='http://themexpose.com' id='mycontent'>ThemeXpose</a></p></center>
