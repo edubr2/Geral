@@ -122,6 +122,29 @@ _________________________________________________________________________
 .emby-tab-button-active {
   color: #E81123 !important; }
 
+#loginPage {
+    width: 50%;
+    position: fixed;
+    left: 25%;
+}
+
+.logoLibraryMenuButtonText {
+
+  display: none;
+}
+
+img[src*="https://i.imgur.com/VzNVmKQ.png"] {
+
+    display: none;
+}
+
+}
+
+img[src*="https://i.imgur.com/VzNVmKQ.png"] {
+
+    display: none;
+}
+
 /* 1.1.4 Others */
 /* Alpha Picker */
 .alphaPickerButton-selected, .alphaPickerButton-tv:focus {
