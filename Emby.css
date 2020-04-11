@@ -123,9 +123,17 @@ _________________________________________________________________________
   color: #E81123 !important; }
 
 #loginPage {
-    width: 50%;
-    position: fixed;
-    left: 25%;
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+    top: 0px;
+    content: " ";
+    background: url(https://i.imgur.com/ueSkfVT.png);
+    background-size: 100% 100%;
+    width: 1520px;
+    height: 810px;
 }
 
 .logoLibraryMenuButtonText {
@@ -391,15 +399,15 @@ div.scrollContainer.smoothScrollY::-webkit-scrollbar-thumb {
 /* 2.2.2 Logos */
 /* Login Page */
 .imgLogoIcon {
-  content: url(https://cdn.rawgit.com/BenZuser/Emby-Dark-Themes-Resources/master/images/logos-and-icons/RED/logo.png) !important; }
+  content: url(https://i.imgur.com/ueSkfVT.png) !important; }
 
 /* Main Drawer Mobile */
 .adminDrawerLogo img {
-  content: url(https://cdn.rawgit.com/BenZuser/Emby-Dark-Themes-Resources/master/images/logos-and-icons/RED/logo.png) !important; }
+  content: url(https://i.imgur.com/ueSkfVT.png) !important; }
 
 /* Home Page */
 .pageTitleWithLogo {
-  background-image: url(https://cdn.rawgit.com/BenZuser/Emby-Dark-Themes-Resources/master/images/logos-and-icons/RED/logo.png) !important; }
+  background-image: url(https://i.imgur.com/ueSkfVT.png) !important; }
 
 /* 2.2.3 Others	*/
 /* CSS Box */
